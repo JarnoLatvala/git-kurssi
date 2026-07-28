@@ -1,6 +1,5 @@
 print("Hello world!")
-print("Hello darknessa my old friend")
-print("")
-print("I've come to talk with you  again")
+print("Hello darkness my old friend")
+print("I've come to talk with you again")
 
 
